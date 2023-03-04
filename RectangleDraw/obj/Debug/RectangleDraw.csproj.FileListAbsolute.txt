@@ -1,0 +1,16 @@
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\bin\Debug\RectangleDraw.exe.config
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\bin\Debug\RectangleDraw.exe
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\bin\Debug\RectangleDraw.pdb
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw.csproj.AssemblyReference.cache
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw.csproj.SuggestedBindingRedirects.cache
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\MainWindow.g.cs
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\App.g.cs
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw_MarkupCompile.cache
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw_MarkupCompile.lref
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\MainWindow.baml
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw.g.resources
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw.Properties.Resources.resources
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw.csproj.GenerateResource.cache
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw.csproj.CoreCompileInputs.cache
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw.exe
+C:\Users\91213\RiderProjects\rect_paint\RectangleDraw\obj\Debug\RectangleDraw.pdb
